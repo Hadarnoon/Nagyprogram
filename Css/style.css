@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(73, 73, 73);
+}
+
+h1 {
+    font-size: 30px;
+    color:rgb(207, 207, 207);
+}
+
+p {
+    font-family: arial;
+    font-size: 25px;
+    color:rgb(207, 207, 207);
+}
+
+.felsorolashatasok {
+    font-family: arial;
+    font-size: 20px;
+    color: rgb(207, 207, 207);
+    
+}
+
+.felsorolas {
+    font-family: arial;
+    font-size: 20px;
+    color:rgb(207, 207, 207);
+    list-style: square;
+    display: inline;
+}
+
+.felsorolasakcio {
+    font-family: arial;
+    font-size: 20px;
+    color:rgb(207, 207, 207);
+    list-style: circle;
+    display: inline;
+}
+
+.felsorolasugyessegi {
+    font-family: arial;
+    font-size: 20px;
+    color:rgb(207, 207, 207);
+    list-style: disc;
+    display: inline;
+}
+
+.felsorolasszerepjatek {
+    font-family: arial;
+    font-size: 20px;
+    color:rgb(207, 207, 207);
+    list-style: decimal;
+    display: inline;
+}
+
+.felsorolasstrategia {
+    font-family: arial;
+    font-size: 20px;
+    color:rgb(207, 207, 207);
+    list-style: circle;
+    display: inline;
+}
+
+.fo {
+   margin: 0 auto;
+   width:1300px;
+
+}
+
+.menu {
+    margin: 0 auto;
+    width: 1000px;
+    background-color: rgb(46, 46, 46);
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    line-height: 100px;
+}
+
+ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: arial;
+    color:#300ef0;
+    padding: 0 60px;
+    
+}
+
+ul li a:hover {
+    color: red;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    
+}
+
+a {
+    color: #300ef0;
+}
